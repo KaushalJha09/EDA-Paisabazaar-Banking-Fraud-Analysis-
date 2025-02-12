@@ -22,7 +22,7 @@ Financial institutions face challenges in identifying high-risk customers and de
 ## 🚀 Solution & Recommendations
 ### 1️⃣ Build a Predictive Credit Score Model
 - Utilize features like income, outstanding debt, credit utilization, and payment behavior.
-- Apply machine learning models (e.g., Random Forest, XGBoost, Logistic Regression) to classify customers into risk categories.
+- Analyzed how income correlates with credit scores, highlighting financial behaviors of different income groups.
 - Improve the accuracy of creditworthiness assessments and reduce default risks.
 
 ### 2️⃣ Personalized Financial Product Recommendations
@@ -32,24 +32,18 @@ Financial institutions face challenges in identifying high-risk customers and de
 ### 3️⃣ Strengthen Risk Management
 - Introduce risk-based pricing strategies.
 - Flag high-risk customers for proactive credit counseling and structured repayment plans.
+- Reviewed outstanding debt levels to understand their impact on credit scores.
 
-### 4️⃣ Automate Fraud Detection
-- Leverage machine learning algorithms to monitor and detect suspicious financial patterns.
-- Enhance security measures and prevent fraudulent activities in real-time.
 
 ## 🛠️ Technologies & Tools Used
 - **Programming Language**: Python
-- **Libraries**: Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn
+- **Libraries**: Pandas, NumPy, Seaborn, Matplotlib.
 - **Data Visualization**: Correlation heatmaps, histograms, scatter plots, and pair plots
-- **Machine Learning (Optional Extension)**: Random Forest, XGBoost, Logistic Regression
 
 ## 📌 Future Work
 - Implement a machine learning-based fraud detection system.
 - Integrate real-time credit monitoring for enhanced risk assessment.
 - Develop a dashboard for interactive financial analysis.
-
-## 📬 Contact
-For any queries or collaborations, feel free to reach out!
 
 ---
 

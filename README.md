@@ -19,6 +19,21 @@ Financial institutions face challenges in identifying high-risk customers and de
 - **Payment Behavior & Delinquencies**: Late and missed payments strongly correlate with lower credit scores and higher outstanding debts.
 - **Suspicious Loan Activity**: Some customers have an excessive number of loans, suggesting possible fraudulent borrowing.
 
+## 📊 Exploratory Data Analysis (EDA) Summary  
+
+- **Dataset Size**: Analyzed **100,000+** customer records.  
+- **Credit Score Distribution**:  
+  - **53.2%** classified as *Standard*  
+  - **17.8%** classified as *Good*  
+  - **29%** classified as *Poor*  
+- **Age Group Insights**: Majority of users fall within the **20-40 years** age range.  
+- **Savings Behavior**: Outliers in *monthly balance* indicate a few individuals with significantly higher savings.  
+- **Payment Behavior**:  
+  - **52.3%** pay the *minimum amount due*.  
+  - **47.7%** fail to pay the minimum, increasing default risk.  
+- **EMI Trends**: Most customers have **moderate EMI payments**, while a smaller segment bears high EMIs.  
+- **Banking Behavior**: Majority of customers maintain **4-8 bank accounts**.
+
 ## 🚀 Solution & Recommendations
 ### 1️⃣ Build a Predictive Credit Score Model
 - Utilize features like income, outstanding debt, credit utilization, and payment behavior.
